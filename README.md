@@ -1,4 +1,4 @@
-# CSTPortal2
+# CstPortal2
 To automatically check that you have forgotten your homework
 
 # Requirement
