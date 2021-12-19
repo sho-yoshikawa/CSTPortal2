@@ -3,7 +3,9 @@ To automatically check that you have forgotten your homework
 
 # Requirement
 chromedriver version is "96"
+
 using Selenium4
+
 more detail, see requirements.txt
 
 # Usage
